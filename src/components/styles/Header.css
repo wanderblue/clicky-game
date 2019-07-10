@@ -1,0 +1,12 @@
+.header {
+  background: #f9b713;
+  height: 20px;
+}
+
+.header h4 {
+  margin: 0;
+  padding-top: 55px;
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+}

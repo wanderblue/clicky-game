@@ -1,0 +1,18 @@
+.card {
+    width: 260px;
+    height: 135px;
+    margin: 15px 15px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    border: 3px solid white;
+  }
+  
+  .crop {
+    height: 135px;
+    width: 260px;
+    overflow: hidden;
+   }
+
+   .crop img {
+    height: auto;
+    width: 260px;
+   }
