@@ -1,3 +1,15 @@
+
+Clicky-Game
+Overview
+This app is a memory game with React. The idea of the game is to click on the cards without clicking on the same one twice until you click all 12 characters.
+
+Heroku link
+https://polar-tor-98507.herokuapp.com/
+
+
+https://polar-tor-98507.herokuapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
